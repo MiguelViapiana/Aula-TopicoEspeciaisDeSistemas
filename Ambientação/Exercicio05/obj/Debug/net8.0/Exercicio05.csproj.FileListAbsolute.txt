@@ -1,0 +1,15 @@
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\bin\Debug\net8.0\Exercicio05.exe
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\bin\Debug\net8.0\Exercicio05.deps.json
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\bin\Debug\net8.0\Exercicio05.runtimeconfig.json
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\bin\Debug\net8.0\Exercicio05.dll
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\bin\Debug\net8.0\Exercicio05.pdb
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\obj\Debug\net8.0\Exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\obj\Debug\net8.0\Exercicio05.AssemblyInfoInputs.cache
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\obj\Debug\net8.0\Exercicio05.AssemblyInfo.cs
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\obj\Debug\net8.0\Exercicio05.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\obj\Debug\net8.0\Exercicio05.sourcelink.json
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\obj\Debug\net8.0\Exercicio05.dll
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\obj\Debug\net8.0\refint\Exercicio05.dll
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\obj\Debug\net8.0\Exercicio05.pdb
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\obj\Debug\net8.0\Exercicio05.genruntimeconfig.cache
+C:\Users\Casa\Documents\Estudos - Curso em vídeo\Aula-TopicoEspeciaisDeSistemas\Ambientação\Exercicio05\obj\Debug\net8.0\ref\Exercicio05.dll
