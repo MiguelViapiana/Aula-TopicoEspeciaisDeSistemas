@@ -1,17 +1,17 @@
 ﻿//Criar um vetor
 int[] vetor = new int[100];
-
 //Criar o objeto que vai gerar o número randomico
 Random aleatorio = new Random();
-
 //Preencher vetor com valores
 for (int i = 0; i < vetor.Length; i++){
-    vetor[i] = aleatorio.Next(100);
+    vetor[i] = aleatorio.Next(1000);
 }
+Console.Write("Array Aleatórizado \n");
 for (int i = 0; i < vetor.Length; i++){
     Console.Write(vetor[i] + " ");
 }
 Console.Write("\n\n");
+Console.Write("Array Ordenado \n");
 Boolean troca = true;
 do{
     troca = false;
