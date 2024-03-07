@@ -1,0 +1,15 @@
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\bin\Debug\net8.0\Exe06A.exe
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\bin\Debug\net8.0\Exe06A.deps.json
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\bin\Debug\net8.0\Exe06A.runtimeconfig.json
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\bin\Debug\net8.0\Exe06A.dll
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\bin\Debug\net8.0\Exe06A.pdb
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\obj\Debug\net8.0\Exe06A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\obj\Debug\net8.0\Exe06A.AssemblyInfoInputs.cache
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\obj\Debug\net8.0\Exe06A.AssemblyInfo.cs
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\obj\Debug\net8.0\Exe06A.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\obj\Debug\net8.0\Exe06A.sourcelink.json
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\obj\Debug\net8.0\Exe06A.dll
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\obj\Debug\net8.0\refint\Exe06A.dll
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\obj\Debug\net8.0\Exe06A.pdb
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\obj\Debug\net8.0\Exe06A.genruntimeconfig.cache
+C:\Users\autologon\Documents\GitHub\Aula-TopicoEspeciaisDeSistemas\ListaExercicio\Exe06A\obj\Debug\net8.0\ref\Exe06A.dll
