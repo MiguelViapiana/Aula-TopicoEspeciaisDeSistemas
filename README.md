@@ -1,1 +1,2 @@
-https://vscode.dev/profile/github/6796fcf69080cdbde464af2020c97444
+
+Repositório destinado para a aula de Tópico Especiais de Sistemas para a faculdade Positivo.
